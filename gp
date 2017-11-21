@@ -1,4 +1,4 @@
 git add -A
-git commit -m "added mail.rb"
+git commit -m "set up production mail"
 git push origin master
 git push heroku master
